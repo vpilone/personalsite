@@ -32,7 +32,15 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+.Navbar {
+  background-color: black;
+  color: white;
+  font-size: 2vw;
+  padding: 1.25vw;
 }
